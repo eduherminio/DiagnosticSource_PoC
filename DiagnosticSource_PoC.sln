@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagnosticSource_PoC.Api", "src\DiagnosticSource_PoC.Api\DiagnosticSource_PoC.Api.csproj", "{6B17095A-E724-464C-8AE3-CAE7DA643DF4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DiagnosticSource_PoC.Lib", "src\DiagnosticSource_PoC.Lib\DiagnosticSource_PoC.Lib.csproj", "{B8691A82-8FD6-4DD3-8F31-51D988262DE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B17095A-E724-464C-8AE3-CAE7DA643DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B17095A-E724-464C-8AE3-CAE7DA643DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B17095A-E724-464C-8AE3-CAE7DA643DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B17095A-E724-464C-8AE3-CAE7DA643DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8691A82-8FD6-4DD3-8F31-51D988262DE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8691A82-8FD6-4DD3-8F31-51D988262DE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8691A82-8FD6-4DD3-8F31-51D988262DE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8691A82-8FD6-4DD3-8F31-51D988262DE0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {797F7041-E0FE-45EF-A8C6-A280B4293339}
+	EndGlobalSection
+EndGlobal
